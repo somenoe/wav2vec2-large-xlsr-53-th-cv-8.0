@@ -11,6 +11,11 @@ license: cc-by-sa 4.0
 ---
 
 # `wav2vec2-large-xlsr-53-th`
+
+! ผมต้องการเรียน deep learning ผ่านการ fine-tune `wav2vec2-large-xlsr-53` ด้วย Thai [Common Voice 8.0](https://commonvoice.mozilla.org/en/datasets)** 
+
+** มีการอัพเดทเวอร์ชั่นเมื่อ 2022-01-19
+
 Finetuning `wav2vec2-large-xlsr-53` on Thai [Common Voice 7.0](https://commonvoice.mozilla.org/en/datasets)
 
 [Read more on our blog](https://medium.com/airesearch-in-th/airesearch-in-th-3c1019a99cd)
